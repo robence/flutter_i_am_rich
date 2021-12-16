@@ -9,7 +9,7 @@ void main() {
       ),
       backgroundColor: Colors.blueGrey,
       body: Center(
-        child: Image.network('https://www.w3schools.com/w3css/img_lights.jpg'),
+        child: Image.asset('images/diamond.png'),
       ),
     ),
   ));
